@@ -14,13 +14,16 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+![Isis and me](IMG_2874.JPG)
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
-
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
