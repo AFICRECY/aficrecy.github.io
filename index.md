@@ -21,9 +21,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="IMG_2874.JPG"
+     alt="Isis and me"
+     style="float: right; margin-right: 10px;" />
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
