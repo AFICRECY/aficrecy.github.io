@@ -11,13 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-![13411629_10206560451231712_2079712924177252341_o](https://user-images.githubusercontent.com/101257805/158505234-94427f15-b03a-45c9-8403-d6a0766b5dfa.jpg)
-
 
 # Header 1
 ## Header 2
 ### Header 3
 
+<blink> Afi is Testing This </blink> 
 
 - Bulleted
 - List
