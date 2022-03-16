@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Isis and me](IMG_2874.JPG)
+![Friends](![IMG_E3632.JPG]())
 ```markdown
 Syntax highlighted code block
 
@@ -16,7 +16,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<blink> Afi is Testing This </blink> 
 
 - Bulleted
 - List
@@ -30,8 +29,8 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-<img src="IMG_2874.JPG"
-     alt="Isis and me"
+<img src="![IMG_E3632.JPG]()"
+     alt="Friends"
      style="float: right; margin-right: 10px;" />
 ### Jekyll Themes
 
