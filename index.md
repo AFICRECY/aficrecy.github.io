@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-``` 
+
   <head>
     <title>Afi's Excursions</title>
- ```
+
     
 <body>
  <h1>Afi's Outdoor Experiences!</h1>
