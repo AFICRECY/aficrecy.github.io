@@ -1,67 +1,80 @@
 <!DOCTYPE html>
 <html>
+``` 
   <head>
     <title>Afi's Excursions</title>
- 
+ ```
+    
 <body>
  <h1>Afi's Outdoor Experiences!</h1>
 
 <h2> Table of Contents</h2>
 <ol>
-  <li>San Pablo Dam Rd</li>
-  <li>Mount Diablo, San Ramon Valley</li>
-  <li>Kona Hawaii, Kahalu'u Beach</li>
-  <li>Canoeing in Lake Chabot Regional Park Reservoir</li>
-  <li>Pool Party in Walnut Creek!</li>
+  <li><a href="#San Pablo">San Pablo Dam Rd</a></li>
+  <li><a href="#San Ramon Valley">Mount Diablo, San Ramon Valley</a></li>
+  <li><a href="#Kahalu'u Beach">Kona Hawaii, Kahalu'u Beach</a></li>
+  <li><a href="#Lake Chabot">Canoeing in Lake Chabot Regional Park Reservoir</a></li>
+  <li><a href="#Pool Party">Pool Party in Walnut Creek!</a></li>
   <li><a href="#Kua Bay">Beach Day at Kua Bay, Hawaii</a></li>
 </ol>
 
 
 
-<h2>San Pablo Dam Rd</h2>
+<h2>San Pablo Dam Rd, Orinda</h2>
+<div id="San Pablo">   
 <img src="IMG_5214.jpeg" alt="Hike" style=float:right; margin-right: 2px/>
   <h3>This was a fun hike I took with my partner at the San Pablo Dam Road.
           <br>The hike was 2 miles long each way. We passed a rattle snake and got to the top and saw an amazing view.</br>
   </h3>
-  
+  </div>
+    
 <hr>
 
 <h2>Mount Diablo, San Ramon Valley</h2>
+<div id="San Ramon Valley">    
 <img src="IMG_4770.jpeg" alt:"Hike #2" style=float:right; margin-right 7px;" />
   <h3>This was another fun hike that my bestfriend Terrence took me to in San Ramon.
          <br>The hike was so short that we made it to the peak within 10 minutes. It wasn't so much of an incline hike, as it was climbing up rocks.    </br>
   </h3>
-
+</div>
+                                                                            
 <hr>
                                                                             
 <h2>Kona Hawaii, Kahalu'u Beach</h2>
+<div id="Kahalu'u Beach">                                                                            
 <img src="RYBO8914.jpeg" alt:"Kahalu'u Beach" style=float:left; margin-left 5px;"/>
   <h3>The beautiful view behind me is from one of the Beaches that my friends and I frequented in Hawaii.
          <br>This was the first meeting place that my friends and I had after we all arrived in town. We couldnt contain our joy.</br>
   </h3>
-
+</div>
+  
 <hr>
 
-<h2>Canoeing in Lake Chabot Regional Park Reservoir</h2>                                    
+<h2>Canoeing in Lake Chabot Regional Park Reservoir</h2>   
+<div id="Lake Chabot">                                     
 <img src="HIBJ7324.jpeg" alt:"Lake Chabot" style=float:right; margin-right 2px;"/> 
   <h3>This was my most random excursion yet! A long-time friend reached out to me and asked if we could go out in nature. I am always open to doing outdoorsy stuff, and we ended up canoeing across the Lake Chabot Resevior.
   </h3>
+</div>                                   
                                      
 <hr>
                                      
 <h2>Pool Party in Walnut Creek!</h2>
+<div id="Pool Party">                                     
 <img src="GMAZ9912.jpeg" alt:"Pool-Party" style=float:right; margin-right 2px;"/> 
   <h3>I was invited to a pool party last summer by my uncle. I ended up coming, and no one was there. Needless to say, I still enjoyed myself and had a photoshoot.
   </h3>                                     
-                                    
+</div> 
+  
 <hr>
                                      
 <h2>Beach Day at Kua Bay, Hawaii</h2>
-  <div id="Kua Bay">                                  
+<div id="Kua Bay">                                  
     <img src="FKMI6650.jpeg" alt:"Kua-Bay Beach" style-float:right; margin-right 1px;"/>                                     
  <h3>This was one of the most beautiful beaches that I had ever seen. We came here over and over again on our trip because the water was so clear and warm, the sand was so fine and soft, and the weather was amazing.
   </h3>                                     
-  </div>                                  
+</div> 
+                                                                                      
 <hr>
 </body>
                                      
