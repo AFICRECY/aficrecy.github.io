@@ -1,13 +1,16 @@
 <h1>Afi's Outdoor Experiences!</h1>
 
-<h3>San Pablo Dam Rd</h3>
-<img src="IMG_5214.jpeg" alt="Hike" style=float:right; margin-right: 8px/>
-  <p>This was a fun hike I took with my partner at the San Pablo Dam Road.
-          <br>The hike was 2 miles long each way.</br>
-          <br>We passed a rattle snake and got to the top and saw an amazing view.</br>
-  </p>
+<h2>San Pablo Dam Rd</h2>
+<img src="IMG_5214.jpeg" alt="Hike" style=float:right; margin-right: 6px/>
+  <h3>This was a fun hike I took with my partner at the San Pablo Dam Road.
+          <br>The hike was 2 miles long each way. We passed a rattle snake and got to the top and saw an amazing view.</br>
+  </h3>
 
-
+<h2>Mount Diablo, San Ramon Valley</h2>
+<img src="IMG_4770.jpeg" alt:"Hike #2" style=float:right; margin-right 7px
+<h3>This was a fun hike I took with my partner at the San Pablo Dam Road.
+          <br>The hike was 2 miles long each way. We passed a rattle snake and got to the top and saw an amazing view.</br>
+  </h3>
 
 <img src="IMG_E3632.JPG" alt="Friends" style="float: right; margin-right: 8px;" />
 <p>This was a day in the park at Malia's birthday.<br> I met her mom for the first time and we got drunk with all her friends and family.</p>
