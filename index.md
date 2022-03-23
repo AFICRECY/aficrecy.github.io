@@ -1,4 +1,22 @@
-<h1>Afi's Outdoor Experiences!</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Afi's Excursions</title>
+ 
+<body>
+ <h1>Afi's Outdoor Experiences!</h1>
+
+<h2> Table of Contents</h2>
+<ol>
+  <li>San Pablo Dam Rd</li>
+  <li>Mount Diablo, San Ramon Valley</li>
+  <li>Kona Hawaii, Kahalu'u Beach</li>
+  <li>Canoeing in Lake Chabot Regional Park Reservoir</li>
+  <li>Pool Party in Walnut Creek!</li>
+  <li><a href="#Kua Bay">Beach Day at Kua Bay, Hawaii</a></li>
+</ol>
+
+
 
 <h2>San Pablo Dam Rd</h2>
 <img src="IMG_5214.jpeg" alt="Hike" style=float:right; margin-right: 2px/>
@@ -32,21 +50,24 @@
 <hr>
                                      
 <h2>Pool Party in Walnut Creek!</h2>
-<img src="GMAZ9912.jpeg" alt:"Pool-Party" style=float:right; margin-right 2px;"/>                                     
+<img src="GMAZ9912.jpeg" alt:"Pool-Party" style=float:right; margin-right 2px;"/> 
+  <h3>I was invited to a pool party last summer by my uncle. I ended up coming, and no one was there. Needless to say, I still enjoyed myself and had a photoshoot.
+  </h3>                                     
                                     
-                                 
-
-
-                                     
-                                     
-                                     
-                                     
-<img src="IMG_E3632.JPG" alt="Friends" style="float: right; margin-right: 8px;" />
-<h3>This was a day in the park at Malia's birthday.<br> I met her mom for the first time and we got drunk with all her friends and family.</h3>
-<strong> I wish we could do more days like this</strong>
-
 <hr>
-
+                                     
+<h2>Beach Day at Kua Bay, Hawaii</h2>
+  <div id="Kua Bay">                                  
+    <img src="FKMI6650.jpeg" alt:"Kua-Bay Beach" style-float:right; margin-right 1px;"/>                                     
+ <h3>This was one of the most beautiful beaches that I had ever seen. We came here over and over again on our trip because the water was so clear and warm, the sand was so fine and soft, and the weather was amazing.
+  </h3>                                     
+  </div>                                  
+<hr>
+</body>
+                                     
+  </head>                                     
+</html>     
+                                     
 <a href="wwww.Facebook.com">My Favorite Social Media Site!</a> 
 
 
