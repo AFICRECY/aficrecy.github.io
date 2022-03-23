@@ -25,7 +25,15 @@
 <hr>
 
 <h2>Canoeing in Lake Chabot Regional Park Reservoir</h2>                                    
-<img src="HIBJ7324.jpeg" alt:"Lake Chabot" style=float:right; margin-right 2px;"/>                                     
+<img src="HIBJ7324.jpeg" alt:"Lake Chabot" style=float:right; margin-right 2px;"/> 
+  <h3>This was my most random excursion yet! A long-time friend reached out to me and asked if we could go out in nature. I am always open to doing outdoorsy stuff, and we ended up canoeing across the Lake Chabot Resevior.
+  </h3>
+                                     
+<hr>
+                                     
+<h2>Pool Party in Walnut Creek!</h2>
+<img src="GMAZ9912.jpeg" alt:"Pool-Party" style=float:right; margin-right 2px;"/>                                     
+                                    
                                  
 
 
