@@ -3,7 +3,7 @@
 
   <head>
     <title>Afi's Excursions</title>
-
+  </head> 
     
 <body>
  <h1>Afi's Outdoor Experiences!</h1>
@@ -78,7 +78,7 @@
 <hr>
 </body>
                                      
-  </head>                                     
+                                      
 </html>     
                                      
 <a href="wwww.Facebook.com">My Favorite Social Media Site!</a> 
