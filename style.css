@@ -1,0 +1,15 @@
+ img {object-fit: contain; width:300px; height:500px; overflow:auto; margin:0px; display:block; padding:0px; line-height:0px;}
+ .left{
+   left: 0px;
+ }
+ .right{
+   right: 0px;
+ }
+ section{
+   overflow:auto;
+ }
+ .handy{color: blue;}
+ .righteous{color:green;}
+ table, th, td {
+  border: 1px solid #000;
+}
