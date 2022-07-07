@@ -1,4 +1,4 @@
- img {object-fit: contain; width:300px; height:500px; overflow:auto; margin:0px; display:block; padding:0px; line-height:0px;}
+ img {object-fit: contain; width:300px; height:500px;}
  .left{
    left: 0px;
  }
